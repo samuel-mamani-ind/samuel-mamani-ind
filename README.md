@@ -3,13 +3,13 @@
 
 - 🌱 Actualmente estoy aprendiendo **Bootstrap 5**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://www.linkedin.com/in/samuel-mamani-ind/](https://www.linkedin.com/in/samuel-mamani-ind/)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/samuel-mamani-ind](https://github.com/samuel-mamani-ind)
 
 - 📫 Cómo contactarme **samuel.mamani.ind@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samuel-mamani-ind/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-mamani-ind/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samuel-mamani-ind/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-mamani-ind/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
