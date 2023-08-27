@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Samuel Mamani</h1>
-<h3 align="center">Desarrollador PHP</h3>
+<h1 align="center">Hola, Soy Desarrollador Backend</h1>
+<h3 align="center">Analista de Sistemas</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Bootstrap 5**
 
